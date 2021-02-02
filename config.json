@@ -1,6 +1,6 @@
 {
 	"ip":"luaband.aternos.ip",
-	"port": "25565",
+	"port": "18064",
 	"name": "server",
 	"auto-night-skip":"false"
 }
